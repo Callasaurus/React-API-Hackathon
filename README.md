@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/112335053/205606110-2b194628-cc26-4c2c
   git clone https://github.com/Callasaurus/React-API-Hackathon.git
 ```
 
-# How to run the front end:
+# How to run the app:
 
 ```bash
   cd bc13_w8d5_react-hackathon-calla_celia_room25/src
