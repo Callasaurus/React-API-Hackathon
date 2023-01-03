@@ -1,6 +1,6 @@
 # React API Hackathon
 
-Do you like cocktails? Have you always though about trying new ones but end up sticking to the one you know? Well, this is the app for you! This react app works with a cocktail API and fetches you random cocktails, their ingredients and their recipes for inspiration (https://thecocktaildb.com/). You can: fetch as many cocktails as you like; delete them if they don't catch your fancy; add them to your favourites list. Happy drinking! (p.s. please drink responsibly)
+Do you like cocktails? Have you always thought about trying new ones but end up sticking to the one you know? Well, this is the app for you! This react app works with a cocktail API and fetches you random cocktails, their ingredients and their recipes for inspiration (https://thecocktaildb.com/). You can: fetch as many cocktails as you like; delete them if they don't catch your fancy; add them to your favourites list. Happy drinking! (p.s. please drink responsibly)
 
 ## Skills
 
